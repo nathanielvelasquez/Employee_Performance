@@ -1,0 +1,8 @@
+Which feature is the most important determinant for employee performace scores?
+This code trains a random forest regressor model to analyze Kaggle dataset 
+(IBM HR Analytics Employee Attrition & Performance)
+and sorts feature importances.
+
+
+Kaggle dataset:
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
